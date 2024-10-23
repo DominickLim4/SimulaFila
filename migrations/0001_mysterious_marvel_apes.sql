@@ -1,0 +1,1 @@
+ALTER TABLE `processo` ADD `status` integer DEFAULT 1;
